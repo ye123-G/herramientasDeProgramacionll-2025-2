@@ -1,0 +1,4 @@
+﻿namespace GestionDeinformacion.Domain.Services
+{
+   
+}

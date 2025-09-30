@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Gestion_de_informacion.domain.model
+{
+    internal class Class10
+    {
+    }
+}

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GestionDeinformacion.Domain.Model
 {
-    internal class MedicalHistory
+    internal class MedicalHistory : Appointment
     {
         private string patientID; 
         private Dictionary<string, Dictionary<string, object>> records; 

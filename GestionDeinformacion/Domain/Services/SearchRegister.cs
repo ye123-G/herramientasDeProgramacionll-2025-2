@@ -1,4 +1,5 @@
-﻿using Microsoft.Win32;
+﻿using GestionDeinformacion.Domain.ports;
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,6 @@
-﻿namespace GestionDeinformacion.Domain.Services
+﻿using GestionDeinformacion.Domain.ports;
+
+namespace GestionDeinformacion.Domain.Services
 {
     internal class SearchPatient : Patient
     {
@@ -21,6 +23,8 @@
 
 public class Patient
 {
+    internal readonly object BirthDate;
+
     public object Document { get; internal set; }
 
     internal object FindByDocument(object patientDocument)

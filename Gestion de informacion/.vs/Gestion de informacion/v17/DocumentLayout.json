@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\updatepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\updatepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\updatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\updatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,7 +35,27 @@
       "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestion de informacion\\domain\\servcios\\updatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:domain\\servcios\\updatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{69DB9E3B-B17E-4B86-8DB5-37EA55503F3F}|Gestion de informacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,171 +74,181 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "updatepatient.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatepatient.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\updatepatient.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatepatient.cs",
-              "RelativeToolTip": "domain\\servcios\\updatepatient.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:47:47.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "updatemedicalrecord.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatemedicalrecord.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\updatemedicalrecord.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatemedicalrecord.cs",
-              "RelativeToolTip": "domain\\servcios\\updatemedicalrecord.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:48:31.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "createappointment.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createappointment.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\createappointment.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createappointment.cs",
-              "RelativeToolTip": "domain\\servcios\\createappointment.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:42:35.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "createjob.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createjob.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\createjob.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createjob.cs",
-              "RelativeToolTip": "domain\\servcios\\createjob.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:33:08.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "createmedicalrecord.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createmedicalrecord.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\createmedicalrecord.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createmedicalrecord.cs",
-              "RelativeToolTip": "domain\\servcios\\createmedicalrecord.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxQAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:46:15.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "createinvoice.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createinvoice.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\createinvoice.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createinvoice.cs",
-              "RelativeToolTip": "domain\\servcios\\createinvoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:34:53.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "updateemployee.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updateemployee.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\updateemployee.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updateemployee.cs",
-              "RelativeToolTip": "domain\\servcios\\updateemployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:47:09.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "searchpatient.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\searchpatient.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\searchpatient.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\searchpatient.cs",
-              "RelativeToolTip": "domain\\servcios\\searchpatient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:50:24.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "searchorder.cs",
               "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\searchorder.cs",
               "RelativeDocumentMoniker": "domain\\servcios\\searchorder.cs",
               "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\searchorder.cs",
               "RelativeToolTip": "domain\\servcios\\searchorder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T22:49:37.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "createvisit.cs",
-              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createvisit.cs",
-              "RelativeDocumentMoniker": "domain\\servcios\\createvisit.cs",
-              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createvisit.cs",
-              "RelativeToolTip": "domain\\servcios\\createvisit.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:43:03.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "createpatient.cs",
               "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createpatient.cs",
               "RelativeDocumentMoniker": "domain\\servcios\\createpatient.cs",
               "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createpatient.cs",
               "RelativeToolTip": "domain\\servcios\\createpatient.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T22:33:53.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "createvisit.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createvisit.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\createvisit.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createvisit.cs",
+              "RelativeToolTip": "domain\\servcios\\createvisit.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:43:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "searchpatient.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\searchpatient.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\searchpatient.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\searchpatient.cs",
+              "RelativeToolTip": "domain\\servcios\\searchpatient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:50:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "updateemployee.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updateemployee.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\updateemployee.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updateemployee.cs",
+              "RelativeToolTip": "domain\\servcios\\updateemployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:47:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "updatepatient.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatepatient.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\updatepatient.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatepatient.cs",
+              "RelativeToolTip": "domain\\servcios\\updatepatient.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:47:47.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\Appointment.cs",
+              "RelativeDocumentMoniker": "domain\\Appointment.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\Appointment.cs",
+              "RelativeToolTip": "domain\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:49:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "createorder.cs",
               "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createorder.cs",
               "RelativeDocumentMoniker": "domain\\servcios\\createorder.cs",
               "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createorder.cs",
               "RelativeToolTip": "domain\\servcios\\createorder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T22:45:35.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "createjob.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createjob.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\createjob.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createjob.cs",
+              "RelativeToolTip": "domain\\servcios\\createjob.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:33:08.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "createappointment.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createappointment.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\createappointment.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createappointment.cs",
+              "RelativeToolTip": "domain\\servcios\\createappointment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:42:35.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "createmedicalrecord.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createmedicalrecord.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\createmedicalrecord.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createmedicalrecord.cs",
+              "RelativeToolTip": "domain\\servcios\\createmedicalrecord.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:46:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "createinvoice.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createinvoice.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\createinvoice.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\createinvoice.cs",
+              "RelativeToolTip": "domain\\servcios\\createinvoice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:34:53.819Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "updatemedicalrecord.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatemedicalrecord.cs",
+              "RelativeDocumentMoniker": "domain\\servcios\\updatemedicalrecord.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\domain\\servcios\\updatemedicalrecord.cs",
+              "RelativeToolTip": "domain\\servcios\\updatemedicalrecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:48:31.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\Gestion de informacion\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T22:14:26.816Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-14T22:14:26.816Z"
             }
           ]
         }

@@ -1,0 +1,889 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\adapters\\validators\\simplevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\adapters\\validators\\simplevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\infraestructure\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:infraestructure\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\ports\\iorderports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\ports\\iorderports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\ports\\iregisterports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\ports\\iregisterports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\ports\\patientports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\ports\\patientports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\ports\\userports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\ports\\userports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\ports\\iinvoiceports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\ports\\iinvoiceports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\createvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\createvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\infraestructure\\adapters\\mysqluserport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:infraestructure\\adapters\\mysqluserport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\adapters\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\adapters\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\adapters\\bulders\\userbulder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\adapters\\bulders\\userbulder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\adapters\\validators\\emergensycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\adapters\\validators\\emergensycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\adapters\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\adapters\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\adapters\\validators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\adapters\\validators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\ports\\orderports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\ports\\orderports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\searchorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\searchorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\medicalinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\medicalinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\humanresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\humanresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\diagnostichelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\diagnostichelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\medicalinsurancee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:medicalinsurancee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\medicalinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:medicalinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\iemployeeport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:iemployeeport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\infraestructure\\database\\databaseconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:infraestructure\\database\\databaseconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\updateregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\updateregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\updatepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\updatepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\searchregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\searchregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\createpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\createpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\services\\createmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\services\\createmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\vitaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\vitaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\ordermedication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\ordermedication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\orderprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\orderprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\domain\\model\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:domain\\model\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\usercases\\humanresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\usercases\\humanresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\usercases\\informationsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\usercases\\informationsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\gestiondeinformacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:gestiondeinformacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\usercases\\updatepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\usercases\\updatepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|c:\\users\\salaz\\onedrive\\documentos\\trabajo de herramientas\\herramientasdeprogramacionll-2025-2\\gestiondeinformacion\\application\\usercases\\administrativestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C4089-9E53-4CD0-8092-10DE43C4B3EF}|GestionDeinformacion.csproj|solutionrelative:application\\usercases\\administrativestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\SimpleValidator.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\Validators\\SimpleValidator.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\SimpleValidator.cs",
+              "RelativeToolTip": "application\\Adapters\\Validators\\SimpleValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:55:58.482Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\infraestructure\\Config\\config.cs",
+              "RelativeDocumentMoniker": "infraestructure\\Config\\config.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\infraestructure\\Config\\config.cs",
+              "RelativeToolTip": "infraestructure\\Config\\config.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:23:24.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRegisterPorts.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\IRegisterPorts.cs",
+              "RelativeDocumentMoniker": "Domain\\ports\\IRegisterPorts.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\IRegisterPorts.cs",
+              "RelativeToolTip": "Domain\\ports\\IRegisterPorts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:49:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientPorts.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\PatientPorts.cs",
+              "RelativeDocumentMoniker": "Domain\\ports\\PatientPorts.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\PatientPorts.cs",
+              "RelativeToolTip": "Domain\\ports\\PatientPorts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:33:09.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPorts.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\UserPorts.cs",
+              "RelativeDocumentMoniker": "Domain\\ports\\UserPorts.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\UserPorts.cs",
+              "RelativeToolTip": "Domain\\ports\\UserPorts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T00:11:44.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInvoicePorts.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\IInvoicePorts.cs",
+              "RelativeDocumentMoniker": "Domain\\ports\\IInvoicePorts.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\IInvoicePorts.cs",
+              "RelativeToolTip": "Domain\\ports\\IInvoicePorts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:29:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderPorts.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\IOrderPorts.cs",
+              "RelativeDocumentMoniker": "Domain\\ports\\IOrderPorts.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\IOrderPorts.cs",
+              "RelativeToolTip": "Domain\\ports\\IOrderPorts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:29:11.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateVisit.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateVisit.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\CreateVisit.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateVisit.cs",
+              "RelativeToolTip": "Domain\\Services\\CreateVisit.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:52:51.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MySqlUserPort.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\infraestructure\\adapters\\MySqlUserPort.cs",
+              "RelativeDocumentMoniker": "infraestructure\\adapters\\MySqlUserPort.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\infraestructure\\adapters\\MySqlUserPort.cs",
+              "RelativeToolTip": "infraestructure\\adapters\\MySqlUserPort.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:48:05.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\Validators\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "application\\Adapters\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:08:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserBulder.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\bulders\\UserBulder.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\bulders\\UserBulder.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\bulders\\UserBulder.cs",
+              "RelativeToolTip": "application\\Adapters\\bulders\\UserBulder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:04:04.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmergensyContact.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\EmergensyContact.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\Validators\\EmergensyContact.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\EmergensyContact.cs",
+              "RelativeToolTip": "application\\Adapters\\Validators\\EmergensyContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:08:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\PersonValidator.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\Validators\\PersonValidator.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\PersonValidator.cs",
+              "RelativeToolTip": "application\\Adapters\\Validators\\PersonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:10:08.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\Validators\\PasswordValidator.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\Adapters\\Validators\\PasswordValidator.cs",
+              "RelativeToolTip": "application\\Adapters\\Validators\\PasswordValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:13:17.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateInvoice.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\CreateInvoice.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateInvoice.cs",
+              "RelativeToolTip": "Domain\\Services\\CreateInvoice.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwLUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:52:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateEmployee.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\CreateEmployee.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateEmployee.cs",
+              "RelativeToolTip": "Domain\\Services\\CreateEmployee.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:55:23.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderPorts.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\OrderPorts.cs",
+              "RelativeDocumentMoniker": "Domain\\ports\\OrderPorts.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\ports\\OrderPorts.cs",
+              "RelativeToolTip": "Domain\\ports\\OrderPorts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:32:30.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Patient.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Patient.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Patient.cs",
+              "RelativeToolTip": "Domain\\Model\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:56:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchOrder.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\SearchOrder.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SearchOrder.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\SearchOrder.cs",
+              "RelativeToolTip": "Domain\\Services\\SearchOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:57:17.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Order.cs",
+              "RelativeToolTip": "Domain\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:04:52.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Nurse.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Nurse.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Nurse.cs",
+              "RelativeToolTip": "Domain\\Model\\Nurse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:08:34.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MedicalInsurance.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\MedicalInsurance.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\MedicalInsurance.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\MedicalInsurance.cs",
+              "RelativeToolTip": "Domain\\Model\\MedicalInsurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:43:53.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MedicalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\MedicalHistory.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\MedicalHistory.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\MedicalHistory.cs",
+              "RelativeToolTip": "Domain\\Model\\MedicalHistory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:08:23.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Invoice.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Invoice.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Invoice.cs",
+              "RelativeToolTip": "Domain\\Model\\Invoice.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:08:17.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HumanResources.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\HumanResources.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\HumanResources.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\HumanResources.cs",
+              "RelativeToolTip": "Domain\\Model\\HumanResources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:07:07.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Appointment.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Appointment.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Appointment.cs",
+              "RelativeToolTip": "Domain\\Model\\Appointment.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:11:07.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DiagnosticHelp.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\DiagnosticHelp.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\DiagnosticHelp.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\DiagnosticHelp.cs",
+              "RelativeToolTip": "Domain\\Model\\DiagnosticHelp.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:38:34.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmergencyContact.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\EmergencyContact.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\EmergencyContact.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\EmergencyContact.cs",
+              "RelativeToolTip": "Domain\\Model\\EmergencyContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:43:41.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MedicalInsurancee.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\MedicalInsurancee.cs",
+              "RelativeDocumentMoniker": "MedicalInsurancee.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\MedicalInsurancee.cs",
+              "RelativeToolTip": "MedicalInsurancee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:29:06.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MedicalInsurance.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\MedicalInsurance.cs",
+              "RelativeDocumentMoniker": "MedicalInsurance.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\MedicalInsurance.cs",
+              "RelativeToolTip": "MedicalInsurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:28:27.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEmployeePort.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\IEmployeePort.cs",
+              "RelativeDocumentMoniker": "IEmployeePort.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\IEmployeePort.cs",
+              "RelativeToolTip": "IEmployeePort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:28:25.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DatabaseConnections.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\infraestructure\\database\\DatabaseConnections.cs",
+              "RelativeDocumentMoniker": "infraestructure\\database\\DatabaseConnections.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\infraestructure\\database\\DatabaseConnections.cs",
+              "RelativeToolTip": "infraestructure\\database\\DatabaseConnections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:25:05.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SearchPatient.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\SearchPatient.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SearchPatient.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\SearchPatient.cs",
+              "RelativeToolTip": "Domain\\Services\\SearchPatient.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:57:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SearchRegister.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\SearchRegister.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SearchRegister.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\SearchRegister.cs",
+              "RelativeToolTip": "Domain\\Services\\SearchRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:59:00.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\UpdateEmployee.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\UpdateEmployee.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\UpdateEmployee.cs",
+              "RelativeToolTip": "Domain\\Services\\UpdateEmployee.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:55:53.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdatePatient.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\UpdatePatient.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\UpdatePatient.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\UpdatePatient.cs",
+              "RelativeToolTip": "Domain\\Services\\UpdatePatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:56:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\UpdateRegistry.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\UpdateRegistry.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\UpdateRegistry.cs",
+              "RelativeToolTip": "Domain\\Services\\UpdateRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:58:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\MedicalRecord.cs",
+              "RelativeToolTip": "Domain\\Services\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:58:43.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreatePatient.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreatePatient.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\CreatePatient.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreatePatient.cs",
+              "RelativeToolTip": "Domain\\Services\\CreatePatient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:51:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateMedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateMedicalRecord.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\CreateMedicalRecord.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Services\\CreateMedicalRecord.cs",
+              "RelativeToolTip": "Domain\\Services\\CreateMedicalRecord.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:53:39.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VitalData.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\VitalData.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\VitalData.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\VitalData.cs",
+              "RelativeToolTip": "Domain\\Model\\VitalData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:06:53.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Visit.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Visit.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Visit.cs",
+              "RelativeToolTip": "Domain\\Model\\Visit.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:07:57.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\User.cs",
+              "RelativeToolTip": "Domain\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:08:55.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\Person.cs",
+              "RelativeToolTip": "Domain\\Model\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:07:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderMedication.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\OrderMedication.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\OrderMedication.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\OrderMedication.cs",
+              "RelativeToolTip": "Domain\\Model\\OrderMedication.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:08:13.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\OrderProcedure.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\OrderProcedure.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\OrderProcedure.cs",
+              "RelativeToolTip": "Domain\\Model\\OrderProcedure.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:08:03.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InvoiceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\InvoiceDetails.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Domain\\Model\\InvoiceDetails.cs",
+              "RelativeToolTip": "Domain\\Model\\InvoiceDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:07:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA1wF8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:06:45.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:50:55.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HumanResources.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\HumanResources.cs",
+              "RelativeDocumentMoniker": "application\\usercases\\HumanResources.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\HumanResources.cs",
+              "RelativeToolTip": "application\\usercases\\HumanResources.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:08:22.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Informationsupport.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\Informationsupport.cs",
+              "RelativeDocumentMoniker": "application\\usercases\\Informationsupport.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\Informationsupport.cs",
+              "RelativeToolTip": "application\\usercases\\Informationsupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:09:29.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GestionDeinformacion.csproj",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\GestionDeinformacion.csproj",
+              "RelativeDocumentMoniker": "GestionDeinformacion.csproj",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\GestionDeinformacion.csproj",
+              "RelativeToolTip": "GestionDeinformacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T00:49:41.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Administrativestaff.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\Administrativestaff.cs",
+              "RelativeDocumentMoniker": "application\\usercases\\Administrativestaff.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\Administrativestaff.cs",
+              "RelativeToolTip": "application\\usercases\\Administrativestaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:08:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdatePatient.cs",
+              "DocumentMoniker": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\UpdatePatient.cs",
+              "RelativeDocumentMoniker": "application\\usercases\\UpdatePatient.cs",
+              "ToolTip": "C:\\Users\\salaz\\OneDrive\\Documentos\\Trabajo de herramientas\\herramientasDeProgramacionll-2025-2\\GestionDeinformacion\\application\\usercases\\UpdatePatient.cs",
+              "RelativeToolTip": "application\\usercases\\UpdatePatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:16:42.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

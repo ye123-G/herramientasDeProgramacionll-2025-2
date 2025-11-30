@@ -1,0 +1,8 @@
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.csproj.AssemblyReference.cache
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.Form1.resources
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.csproj.GenerateResource.cache
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.AssemblyInfoInputs.cache
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.AssemblyInfo.cs
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Documentos\Trabajo de herramientas\herramientasDeProgramacionll-2025-2\GestionDeinformacion\obj\Debug\net8.0-windows\GestionDeinformacion.sourcelink.json

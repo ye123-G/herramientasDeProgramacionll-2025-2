@@ -23,5 +23,7 @@ namespace GestionDeinformacion.Domain.Model
         public bool RequiresSpecialistAid { get => requiresSpecialistAid; set => requiresSpecialistAid = value; }
         public string IdSpecialistAid { get => idSpecialistAid; set => idSpecialistAid = value; }
         public long ItemAid { get => itemAid; set => itemAid = value; }
+        public required List<MedicationOrder>? MedicationOrder { get; set; }
+        public required List<ProcedureOrder>? Procedures { get; set; }
     }
 }

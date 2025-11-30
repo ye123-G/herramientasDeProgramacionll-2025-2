@@ -27,5 +27,10 @@ namespace GestionDeinformacion.Domain.Services
             }
             appointmentPort.Save(appointment);
         }
+
+        internal void Execute(Appointment appointment)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -1,4 +1,0 @@
-﻿namespace GestionDeinformacion.Domain.Services
-{
-   
-}
